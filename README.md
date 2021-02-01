@@ -1,6 +1,3 @@
-# Coursera-Notes
-Notes and Tips for the Coursera course
-
 # Week One Notes
 
 ## Download and install Git
