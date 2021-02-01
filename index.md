@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Week One Notes
 
-You can use the [editor on GitHub](https://github.com/Pleasantcode/Coursera-Notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Download and install Git
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [For windows](https://git-scm.com/download/win)
+ 
+### [For Mac](https://git-scm.com/download/mac)
 
-### Markdown
+## Download and install Node JS
+### [For windows](https://nodejs.org/en/)
+  
+## Verify installation with commands
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### To verify git install.
+* git --version
 
-```markdown
-Syntax highlighted code block
+### To verify nodejs install.
+* node --version
 
-# Header 1
-## Header 2
-### Header 3
+### To verify node package manager.
+* npm --version
 
-- Bulleted
-- List
+### To install browser sync with node. 
+* npm install -g browser-sync
+ 
+### To verify browser-sync
+* browser-sync --version
+	 
+# GitHub
 
-1. Numbered
-2. List
+### To learn git 
+ 
+	Go here https://git-scm.com/book/en/v2
+ 
+### To create a git repository
+ 
+1. Go here https://github.com/new
 
-**Bold** and _Italic_ and `Code` text
+1. Once the page loads you will see Create a new repository.
 
-[Link](url) and ![Image](src)
-```
+1. Under repository name. Name the repository. For this tutorial we will use. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+		Cousera-test
 
-### Jekyll Themes
+		Note: you will see green check mark after you name your repository.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pleasantcode/Coursera-Notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Under description. Give the repository a description.
 
-### Support or Contact
+		Coursera test repository
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Select public
+
+1. Choose to Initialize with a read me file.
+ 
+1. Select Create repository.
+
+# Visual Studio - An alternative to Sublime text and Browser sync.
+
+## Download Visual Studio Code. 
+[Visual studio code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+ 
+## Install Live Server Extension from the extension menu in visual code.
+
+### Or you can download it from here
+[Liver Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+
+
