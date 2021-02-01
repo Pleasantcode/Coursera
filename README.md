@@ -26,16 +26,6 @@
 ### To verify browser-sync
 * browser-sync --version
 	 
-# Visual Studio - An alternative to Sublime text and Browser sync.
-
-## Download Visual Studio Code. 
- 
-[Visual studio code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
- 
-### Install Live Server Extension from the extension menu in visual code. 
-
-#### [Liver Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
 # GitHub
 
 ### To learn git 
@@ -63,3 +53,15 @@
 1. Choose to Initialize with a read me file.
  
 1. Select Create repository.
+
+# Visual Studio - An alternative to Sublime text and Browser sync.
+
+## Download Visual Studio Code. 
+ 
+[Visual studio code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+ 
+### Install Live Server Extension from the extension menu in visual code. 
+
+#### [Liver Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+
