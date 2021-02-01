@@ -57,11 +57,11 @@
 # Visual Studio - An alternative to Sublime text and Browser sync.
 
 ## Download Visual Studio Code. 
- 
 [Visual studio code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
  
-### Install Live Server Extension from the extension menu in visual code. 
+## Install Live Server Extension from the extension menu in visual code.
 
-#### [Liver Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+### Or you can download it from here
+[Liver Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 
