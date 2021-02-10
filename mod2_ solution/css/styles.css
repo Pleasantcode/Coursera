@@ -229,8 +229,8 @@ p {
     .section-title {
         position: absolute;
         width: 200px;
-        top: 37px;
-        right: 20px;
+        top: 0px;
+        right: 0px;
         font-weight: bold;
         font-size: 125%;
         text-align: center;
@@ -295,6 +295,6 @@ p {
 
     .col-sm-12 {
         width: 100%;
-        padding: 20px
+        
     }
 }
